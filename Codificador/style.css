@@ -1,0 +1,46 @@
+body{
+    background: #CCCCCC;
+}
+.logo{
+    width: 5%;
+    position: absolute;
+}
+
+.botoes{
+    display: flex;
+    
+    margin-top:20px;
+ 
+   padding: 200px;
+}
+.encriptar{
+font-size: 25px;
+}
+.desencriptar{
+font-size: 25px;   
+}
+main{
+    display: flex;
+}
+
+.mensaje{
+position:relative;
+margin-top:20px;
+margin-left:90px;
+background-image: url("imagenes/ilustra.png");
+background-repeat: no-repeat;
+background-position: 80px;
+background-size: 200px;
+}
+.input-Texto{
+    position:relative;
+    margin-top:90px;
+    margin-left:90px;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-position: 80px;
+    background-size: 200px;
+    }
+.copiar{
+    size: 200px;
+}
